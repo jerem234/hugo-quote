@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'A Repository of my Favorite Quotes'
+theme = 'hello-friend-ng'
+
+[params]
+	homeSubtitle = "I keep track of what smart people say so I sound smart."
+	enableThemeToggle = true
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about"
+	
+[[menu.main]]
+	identifier = "quotes"
+	name = "Quotes"
+	url = "/posts"
+

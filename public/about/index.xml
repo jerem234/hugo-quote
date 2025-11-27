@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://10.0.0.131:1313/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 00:13:56 +0000</lastBuildDate>
+    <atom:link href="http://10.0.0.131:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me</title>
+      <link>http://10.0.0.131:1313/about/me/</link>
+      <pubDate>Mon, 24 Nov 2025 00:13:56 +0000</pubDate>
+      <guid>http://10.0.0.131:1313/about/me/</guid>
+      <description>Student at Lipscomb University looking for a job in business and tech. My skills include a working knowledge of IT, familiarity with different softwares including the Microsoft Suite and Tableau and fast learning and adaptation to new software. Eager to learn more in every field!</description>
+    </item>
+  </channel>
+</rss>
